@@ -1,0 +1,61 @@
+### 7. IP-Based Rate Limiting Test
+
+Test Description:
+Simulated five consecutive failed login attempts from the same IP address.
+
+Source IP: 203.0.113.10
+
+Results:
+- Failed attempts were counted by IP address.
+- After five failed attempts, the IP address was blocked.
+- The IP block duration was 15 minutes.
+- Further login attempts from the blocked IP were denied.
+
+Expected Result: The IP address should be blocked after five failed attempts.
+
+Actual Result: IP address successfully blocked for 15 minutes.
+
+Status: PASS
+
+### 8. Repeated Access Prevention Test
+
+Test Description:
+Attempted another brute-force simulation while the account and IP address were already locked.
+
+Actual Result:
+Further attempts were blocked and the remaining lockout time was displayed.
+
+Status: PASS
+
+### 9. Valid Admin Login Test
+
+Test Description:
+Attempted login using valid admin credentials.
+
+Username: admin
+Result: Login Successful.
+
+Expected Result: System should allow login with correct credentials.
+
+Actual Result: Admin login successful.
+
+Status: PASS
+
+
+### 10. Invalid Password Test
+
+Test Description:
+Attempted login using an incorrect password.
+
+Username: admin
+Source IP: 192.168.1.20
+
+Results:
+- Login was rejected.
+- Failed attempt counter increased to 1.
+
+Expected Result: System should reject an incorrect password.
+
+Actual Result: Login failed and attempts were counted.
+
+Status: PASS

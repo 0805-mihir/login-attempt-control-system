@@ -1,0 +1,27 @@
+[2026-11-20 12:13:46] Failed login | User: testuser | IP: 203.0.113.10
+[2026-11-20 12:13:46] Failed login | User: testuser | IP: 203.0.113.10
+[2026-11-20 12:13:46] Failed login | User: testuser | IP: 203.0.113.10
+[2026-11-20 12:13:46] Failed login | User: testuser | IP: 203.0.113.10
+[2026-11-20 12:13:46] Failed login | User: testuser | IP: 203.0.113.10
+[2026-11-20 12:13:46] ACCOUNT LOCKED | User: testuser | IP: 203.0.113.10 | Duration: 15 minutes
+[2026-11-20 12:21:18] Failed login | User: testuser | IP: 203.0.113.10
+[2026-11-20 12:21:18] Failed login | User: testuser | IP: 203.0.113.10
+[2026-11-20 12:21:18] Failed login | User: testuser | IP: 203.0.113.10
+[2026-11-20 12:21:18] Failed login | User: testuser | IP: 203.0.113.10
+[2026-11-20 12:21:18] Failed login | User: testuser | IP: 203.0.113.10
+[2026-11-20 12:21:18] ACCOUNT LOCKED | User: testuser | IP: 203.0.113.10 | Duration: 15 minutes
+[2026-11-20 12:21:18] IP BLOCKED | IP: 203.0.113.10 | Duration: 15 minutes
+[2026-11-20 12:22:48] Failed login | User: testuser | IP: 203.0.113.10
+[2026-11-20 12:22:48] Failed login | User: testuser | IP: 203.0.113.10
+[2026-11-20 12:22:48] Failed login | User: testuser | IP: 203.0.113.10
+[2026-11-20 12:22:48] Failed login | User: testuser | IP: 203.0.113.10
+[2026-11-20 12:22:48] Failed login | User: testuser | IP: 203.0.113.10
+[2026-11-20 12:22:48] ACCOUNT LOCKED | User: testuser | IP: 203.0.113.10 | Duration: 15 minutes
+[2026-11-20 12:22:48] IP BLOCKED | IP: 203.0.113.10 | Duration: 15 minutes
+[2026-11-20 12:22:51] Blocked IP access | IP: 203.0.113.10
+[2026-11-20 12:22:51] Blocked IP access | IP: 203.0.113.10
+[2026-11-20 12:22:51] Blocked IP access | IP: 203.0.113.10
+[2026-11-20 12:22:51] Blocked IP access | IP: 203.0.113.10
+[2026-11-20 12:22:51] Blocked IP access | IP: 203.0.113.10
+[2026-11-20 12:28:45] Successful login | User: admin | IP: 192.168.1.10
+[2026-11-20 12:31:37] Failed login | User: admin | IP: 192.168.1.20
